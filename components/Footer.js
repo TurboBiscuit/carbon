@@ -19,14 +19,14 @@ const Footer = () => (
       <a className="link" href="https://github.com/carbon-app/carbon">
         source
       </a>
-      <a className="link" href="/terms">
+      <a className="link" href="https://www.notion.so/TERMS-OF-USE-ff2ce22a7e9848c89c6be46b44297583">
         terms
       </a>
-      <a className="link" href="/privacy">
+      <a className="link" href="https://www.notion.so/PRIVACY-POLICY-e9847a7777714eb08ba15a7a8eaee937">
         privacy
       </a>
       <EmailSubscribe />
-      <a className="link" href="/offsets">
+      <a className="link" href="https://www.wren.co/join/carbon?utm_medium=profile_referral_link&utm_campaign=share">
         offsets
       </a>
       {/* <span className="new">New</span> */}
@@ -36,6 +36,9 @@ const Footer = () => (
       created by{' '}
       <a className="author-link" href="https://twitter.com/carbon_app">
         @carbon_app
+      </a>{' '}
+      and modified by{' '}<a className="author-link" href="https://twitter.com/turbobiscuit_">
+        @turbobiscuit_ for use on cloudflare pages
       </a>{' '}
       ¬
     </div>
