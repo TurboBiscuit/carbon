@@ -38,8 +38,8 @@ const Footer = () => (
         @carbon_app
       </a>{' '}
       and modified by{' '}<a className="author-link" href="https://twitter.com/turbobiscuit_">
-        @turbobiscuit_ for use on cloudflare pages
-      </a>{' '}
+        @turbobiscuit_ 
+      </a>{' '}for use on cloudflare pages
       ¬
     </div>
     <style jsx>
